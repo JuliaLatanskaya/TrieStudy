@@ -1,6 +1,7 @@
 # TrieStudy
 
 The repository contains scripts to solve PhoneList problem using Trie structure.
+http://www.spoj.com/problems/PHONELST/
 
 Synopsis
 ==============
